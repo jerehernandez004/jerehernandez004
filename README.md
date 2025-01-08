@@ -9,7 +9,7 @@
 #include <iostream>
 
 void displaySkills() {
-    std::cout << "🛠️ Skills: C++, Data Structures, Game Development, Unreal Engine" << std::endl;
+    std::cout << "🛠️ Skills: C++, Game Development, Unreal Engine, OpenGL" << std::endl;
 }
 
 void displayProjects() {
